@@ -2,7 +2,7 @@
 
 **[English](#english) · [Español](#español)**
 
-Bilingual AI automation · Automatización con IA bilingüe
+Bilingual AI automation · Automatización con IA bilingüe<br>
 🇨🇦 Canada · 🇺🇸 United States · 🌎 Latin America
 
 ---
@@ -66,11 +66,11 @@ de marca, sin capa de traducción.
 
 ## Bienestar General
 
-Bilingual AI automation for North America and Latin America
+Bilingual AI automation for North America and Latin America<br>
 Automatización con IA bilingüe para Norteamérica y Latinoamérica
 
-🌐 [bienestargeneral.net](https://bienestargeneral.net/)
-📘 [Facebook](https://www.facebook.com/jbaezbienestar/)
+🌐 [bienestargeneral.net](https://bienestargeneral.net/)<br>
+📘 [Facebook](https://www.facebook.com/jbaezbienestar/)<br>
 📷 [Instagram](https://www.instagram.com/bienestaractivo_general/)
 
 📍 Ottawa, Ontario, Canada
